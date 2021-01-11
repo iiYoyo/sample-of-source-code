@@ -1,0 +1,7 @@
+main: me.iiYoyo.Discord.Main
+name: Dicord
+version: 1F
+author: iiYoyo
+
+commands:
+  Discord: 
